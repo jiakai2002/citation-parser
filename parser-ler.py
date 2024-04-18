@@ -1,7 +1,9 @@
 def get_cit(s):
+    prev = []
     arr = []
     b = False
     cit = ""
+    word = ""
     for c in s:
         if (c == '('):
             b = True
@@ -9,9 +11,23 @@ def get_cit(s):
         elif (b):
             cit += c
             if (c == ')'):
-                arr.append(cit)
+                if (len(cit) == 6 and num_count(cit) == 4):
+                    arr.append(prev[0]+prev[1]+prev[2]+cit)
+                else:
+                    arr.append(cit)
                 cit = ""
                 b = False
+        else:
+            word += c
+            if (c == ' '):
+                if (len(prev) < 3):
+                    prev.append(word)
+                else:
+                    prev[0] = prev[1]
+                    prev[1] = prev[2]
+                    prev[2] = word
+                word = ""
+
     return arr
 
 
@@ -28,10 +44,12 @@ file = 'data.txt'
 with open(file, 'r') as file:
     s = file.read()
 
-s = "hi i am john (first citation, 1000) hi i am another john (second citation, 2000)"
 arr = get_cit(s)
 
+i=0
+print("------------------ LER'S CITATION ------------------")
 for c in arr:
     if (num_count(c) >= 4):
-        print(c)
+        print(i,c)
+        i += 1
 
