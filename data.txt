@@ -1,0 +1,77 @@
+Measuring V̇O2max of a young, healthy male via Bruce protocol treadmill test
+
+
+Chang J. Ler, Chua W. Rong, Tan J. L. Javier, Ng W. S. Harrison, Tay Y. H. Nigel, Peng Shaonan, 
+Sports Science & Management, Nanyang Technological University
+SS1105: Foundations of Exercise Physiology
+Mr. Mark Tan
+April 25, 2024
+
+
+________________
+
+
+Measuring V̇O2max of a young, healthy male via Bruce protocol treadmill test
+V̇O2 max - what, why (sports), how?
+        V̇O2max (expressed in ml/kg/min) represents a physiological ceiling of the body’s capacity to increase alveolar O2 uptake, transport and consumption as workload and metabolic demand increases (Hill & Lupton, 1923). It is universally regarded as the gold standard to assess cardiorespiratory fitness (Beltz et al., 2016). 
+        In the realm of sports, V̇O2max is a key predictor of endurance exercise performance (Foster et al., 2007; Hawkins et al., 2007). Specifically, Joyner & Coyle (2008) reported that a high V̇O2max is a correlated with sporting success in endurance sports such as running, cycling and cross-country skiing. High aerobic fitness is also vital in sports such as rugby and football as it aids recovery in between intermittent high-intensity efforts (Aziz et al., 2000; Girard et al., 2011). 
+        V̇O2max can be measured directly or indirectly. Direct testing involves measuring V̇O2max through direct analysis of ventilated gas while having participants perform an incremental exercise test using protocols such as the Bruce protocol (Bruce et al., 1949), Balke protocol (Pollock et al., 1976) and Ellestad protocol (Uth et al., 2004). Direct measurement is usually highly accurate and reliable (Ferrar et al., 2014). Alternatively, indirect testing predicts V̇O2max using mathematical models based on participants’ heart rate (HR), distance traveled, or timing attained during specific exercise tests (Carter et al., 2011). Though more prone to error than direct testing, field tests may be desirable due to their low-cost, accessible and ability to evaluate multiple subjects in one setting (Castro-Piñero et al., 2010). 
+
+
+Aim and hypothesis of this experiment?
+        This experiment aims to determine the V̇O2max of a young healthy male by direct testing through the Bruce protocol treadmill test (Bruce et al., 1949). The attainment of V̇O2max may be verified by a V̇O2 plateau in response to an increase in exercise intensity (Hill & Lupton, 1923; Taylor et al., 1955). Otherwise, it can be validated by the fulfillment of secondary criteria (Howley et al., 1995; Issekutz et al., 1962; Rossiter et al., 2006; Coquart et al., 2014). They are: attaining a respiratory exchange ratio (RER) ≥ 1.15; reaching the age-adjusted maximum heart rate (HRmax) within a range of ±10 beats per minute (bpm), and scoring 19 or higher on Borg’s rating of perceived effort (RPE6–20) scale (Borg, 1982).
+        It is hypothesized that the subject’s V̇O2max falls between the 80th and 90th percentile for his age group, given his active lifestyle (i.e, exercising >3 times a week) and sports background (e.g., judo, rock climbing, and running). 
+
+
+________________
+
+
+Methodology
+        Anthropometric detail of participant?
+        Table 1 shows the anthropometric details of the participant. 
+
+
+        What & how was the experiment done?
+Subject refrained from vigorous activity 24 hours prior to the test.
+PAR Q+ form
+
+
+HR, RER, RPE, V̇O2, and V̇CO2 values were recorded at the final seconds of each stage and the instant the subject stopped. 
+        HR? 
+Polar h10, chest strap, sensor on treadmill
+
+
+        RER/VO2 max?
+Mouthpiece, headgear to secure mouthpiece, connected to gas tube
+Gas calibration before beginning the test
+Safety chest harness fitted over torso
+Treadmill 
+
+
+        RPE? 
+Pointed to visual chart 
+
+
+________________
+
+
+Results
+        As seen in Figure 1, subject’s V̇O2 peaked at 59.8 ml/kg/min towards the end stage. There was no evidence of V̇O2 plateauing accompanied by an increase in exercise intensity level. 
+        From Table 2, the subject stopped towards the end of stage 5, attaining an RPE score of 19, RER of 1.24, and peak HR of 185 bpm. 
+
+
+
+________________
+
+
+Discussion
+
+
+
+
+        From Table 3, the subject’s V̇O2max of 59.8 ml/kg/min falls under the 80th-90th percentile for his age group. His cardiorespiratory fitness may be considered excellent. This finding validates the experiment’s hypothesis. 
+Fulfillment of criteria 
+        The subject’s V̇O2 did not plateau with incremental exercise, hence the classical criteria for V̇O2max was not attained. Nonetheless, fulfillment of secondary criteria may validate V̇O2max. The subject reached a RER of 1.24 (criteria is ≥1.15) and scored 19 on the RPE6–20 scale (criteria is ≥19). Tanaka et al. (2001) proposed an equation for age-predicted HRmax: . Using this equation, the subject’s age-predicted HRmax was 193 bpm. The expected value is acceptably close to the observed HRmax of 185 bpm. Hence, because subject satisfied the alternative criteria, there is reason to believe V̇O2max was reached. 
+Limitations of experiment
+        Unfortunately, Schaun (2017) reported that achieving these secondary criteria during an exercise test does not always prove that V̇O2 was achieved. Londeree (1982) found age-predicted HRmax to have a 95% confidence interval of ± 45 bpm. Possible reasons for this variability include differences in race, sedentary level, and age group. (Rodahl et al., 2003; Cooper et al., 1984; Hansen et al., 1984). Moreover, Sidney and Shephard (1977) demonstrated that maximal RER varies from 1.0 to 1.44. Poole et al. (2008) observed that the criterion value of RER of 1.15 may be satisfied even before volitional exhaustion, causing V̇O2max to be undermeasured by 16%.         Because there is no-one-size-fits-all secondary criteria, experimental values of V̇O2max are often smaller than the true V̇O2max. These criteria are also not able to differentiate those who demonstrate a plateau in V̇O2 from those who do not (Astorino, 2009; Astorino et al., 2009). Future improvements Schaun (2017) argued for the use of follow-up verification tests to effectively confirm whether a true V̇O2max was reached. In brief, the verification phase is “an effort performed after an incremental test to exhaustion, in the same session or not, with intensities ranging from submaximal to supramaximal that allow sufficient time for V̇O2max to be reached”. Dalleck et al. (2012) and Astorino and White (2010) concluded that a true V̇O2max is confirmed if incremental test and verification phase V̇O2max  values are almost identical (i.e., ≤ 3% difference). The verification assessment works for individuals of different fitness levels, ranging from well-trained athletes (Hawkins et al., 2007; Weatherwax et al., 2016), physically active individuals (Nolan et al., 2014), to sedentary individuals (Astorino et al., 2009). 
+________________
